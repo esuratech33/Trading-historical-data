@@ -149,7 +149,7 @@ This is strictly a research and historical simulation project. Nothing live is a
 
 You may: research strategies; develop mathematical models; write strategy code; backtest historical data; run Monte Carlo simulations; analyze combinations; produce reports; recommend candidates for further paper testing.
 
-You may NOT: place live trades; connect to a funded trading account to execute trades; purchase additional accounts; pay for subscriptions or data; change the settled account; represent simulated results as actual earnings.
+You may NOT: place live trades; connect to a funded trading account to execute trades; change account settings; purchase additional accounts; pay for subscriptions or data; change the settled account; represent simulated results as actual earnings.
 
 No strategy should be declared ready for live use simply because it passes a historical backtest.
 
