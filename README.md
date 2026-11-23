@@ -11,6 +11,7 @@ testing protocol new work must follow.
 
 ## Contents
 
+- MASTER_RESEARCH_PROMPT.md — the controlling multi-AI research brief (objectives, protocol, deliverables).
 - `data/` — MNQ 1-minute / 1-hour / daily bars (TopstepX-sourced,
   Jan–Apr 2026 core sample; internal research only, no license).
 - `strategies/` — all strategy implementations (Bots A–R).
